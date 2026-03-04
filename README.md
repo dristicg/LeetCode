@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dristicg/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1390-four-divisors](https://github.com/dristicg/LeetCode/tree/master/1390-four-divisors) |
 | [2769-find-the-maximum-achievable-number](https://github.com/dristicg/LeetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3024-type-of-triangle](https://github.com/dristicg/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
