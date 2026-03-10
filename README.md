@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dristicg/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1390-four-divisors](https://github.com/dristicg/LeetCode/tree/master/1390-four-divisors) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/dristicg/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [2169-count-operations-to-obtain-zero](https://github.com/dristicg/LeetCode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2235-add-two-integers](https://github.com/dristicg/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/dristicg/LeetCode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/dristicg/LeetCode/tree/main/2469-convert-the-temperature/) | Easy |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3794-reverse-string-prefix](https://github.com/dristicg/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/dristicg/LeetCode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 <!---LeetCode Topics End-->
