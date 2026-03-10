@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [2942-find-words-containing-character](https://github.com/dristicg/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/dristicg/LeetCode/tree/main/3019-number-of-changing-keys/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/dristicg/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/dristicg/LeetCode/tree/main/2413-smallest-even-multiple/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3794-reverse-string-prefix](https://github.com/dristicg/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 <!---LeetCode Topics End-->
