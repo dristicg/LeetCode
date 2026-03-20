@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dristicg/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dristicg/LeetCode/tree/master/0035-search-insert-position) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/dristicg/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1390-four-divisors](https://github.com/dristicg/LeetCode/tree/master/1390-four-divisors) |
 | [1550-three-consecutive-odds](https://github.com/dristicg/LeetCode/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/dristicg/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dristicg/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/dristicg/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1390-four-divisors](https://github.com/dristicg/LeetCode/tree/master/1390-four-divisors) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/dristicg/LeetCode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/dristicg/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
