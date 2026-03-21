@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/dristicg/LeetCode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/dristicg/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/dristicg/LeetCode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/dristicg/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2235-add-two-integers](https://github.com/dristicg/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/dristicg/LeetCode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/dristicg/LeetCode/tree/main/2469-convert-the-temperature/) | Easy |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/dristicg/LeetCode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/dristicg/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
