@@ -6,8 +6,8 @@ public:
 
         for (int i = 0; i < n; i++) {
             vector<int> freq(26, 0);
-            int distinct = 0;
-            int maxFreq = 0;
+            int distinct = 0; // for diff letter to store
+            int maxFreq = 0;// unki ko freq
 
             for (int j = i; j < n; j++) {
                 int idx = s[j] - 'a';
