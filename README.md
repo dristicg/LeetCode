@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/dristicg/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/dristicg/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dristicg/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0929-unique-email-addresses](https://github.com/dristicg/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/dristicg/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dristicg/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1390-four-divisors](https://github.com/dristicg/LeetCode/tree/master/1390-four-divisors) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0929-unique-email-addresses](https://github.com/dristicg/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/dristicg/LeetCode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/dristicg/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2942-find-words-containing-character](https://github.com/dristicg/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/dristicg/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0929-unique-email-addresses](https://github.com/dristicg/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/dristicg/LeetCode/tree/main/3713-longest-balanced-substring-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
