@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/dristicg/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0796-rotate-string](https://github.com/dristicg/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0929-unique-email-addresses](https://github.com/dristicg/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/dristicg/LeetCode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/dristicg/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/dristicg/LeetCode/tree/main/0067-add-binary/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/dristicg/LeetCode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
