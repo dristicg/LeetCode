@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/dristicg/LeetCode/tree/main/0031-next-permutation/) | Medium |
+| [0061-rotate-list](https://github.com/dristicg/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/dristicg/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/dristicg/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/dristicg/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/dristicg/LeetCode/tree/main/0796-rotate-string/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/dristicg/LeetCode/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
