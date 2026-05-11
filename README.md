@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/dristicg/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dristicg/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dristicg/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/dristicg/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/dristicg/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2644-find-the-maximum-divisibility-score](https://github.com/dristicg/LeetCode/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/dristicg/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dristicg/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/dristicg/LeetCode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/dristicg/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/dristicg/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
