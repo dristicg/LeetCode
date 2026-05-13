@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dristicg/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1390-four-divisors](https://github.com/dristicg/LeetCode/tree/master/1390-four-divisors) |
 | [1550-three-consecutive-odds](https://github.com/dristicg/LeetCode/tree/main/1550-three-consecutive-odds/) | Easy |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/dristicg/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/dristicg/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1861-rotating-the-box](https://github.com/dristicg/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dristicg/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dristicg/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/dristicg/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0929-unique-email-addresses](https://github.com/dristicg/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/dristicg/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/dristicg/LeetCode/tree/main/3713-longest-balanced-substring-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/dristicg/LeetCode/tree/main/0061-rotate-list/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/dristicg/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 <!---LeetCode Topics End-->
