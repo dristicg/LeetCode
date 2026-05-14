@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/dristicg/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2644-find-the-maximum-divisibility-score](https://github.com/dristicg/LeetCode/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/dristicg/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/dristicg/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2942-find-words-containing-character](https://github.com/dristicg/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3024-type-of-triangle](https://github.com/dristicg/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/dristicg/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dristicg/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dristicg/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/dristicg/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/dristicg/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3024-type-of-triangle](https://github.com/dristicg/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/dristicg/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0929-unique-email-addresses](https://github.com/dristicg/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/dristicg/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/dristicg/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/dristicg/LeetCode/tree/main/3713-longest-balanced-substring-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
