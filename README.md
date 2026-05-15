@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/dristicg/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/dristicg/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/dristicg/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dristicg/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/dristicg/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/dristicg/LeetCode/tree/main/0228-summary-ranges/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dristicg/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dristicg/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dristicg/LeetCode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dristicg/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dristicg/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
