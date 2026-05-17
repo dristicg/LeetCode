@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dristicg/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1306-jump-game-iii](https://github.com/dristicg/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1390-four-divisors](https://github.com/dristicg/LeetCode/tree/master/1390-four-divisors) |
+| [1470-shuffle-the-array](https://github.com/dristicg/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/dristicg/LeetCode/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/dristicg/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/dristicg/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
