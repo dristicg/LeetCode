@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2644-find-the-maximum-divisibility-score](https://github.com/dristicg/LeetCode/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/dristicg/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/dristicg/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/dristicg/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2942-find-words-containing-character](https://github.com/dristicg/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3024-type-of-triangle](https://github.com/dristicg/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/dristicg/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dristicg/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dristicg/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dristicg/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/dristicg/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dristicg/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dristicg/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [1861-rotating-the-box](https://github.com/dristicg/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dristicg/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/dristicg/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,8 +175,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/dristicg/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/dristicg/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dristicg/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/dristicg/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/dristicg/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
