@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dristicg/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0796-rotate-string](https://github.com/dristicg/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0929-unique-email-addresses](https://github.com/dristicg/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
+| [1796-second-largest-digit-in-a-string](https://github.com/dristicg/LeetCode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/dristicg/LeetCode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/dristicg/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2942-find-words-containing-character](https://github.com/dristicg/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/dristicg/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0929-unique-email-addresses](https://github.com/dristicg/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/dristicg/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1796-second-largest-digit-in-a-string](https://github.com/dristicg/LeetCode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/dristicg/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/dristicg/LeetCode/tree/main/3713-longest-balanced-substring-i/) | Medium |
 ## Enumeration
