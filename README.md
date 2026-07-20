@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/dristicg/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dristicg/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/dristicg/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dristicg/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dristicg/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/dristicg/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/dristicg/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/dristicg/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/dristicg/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1796-second-largest-digit-in-a-string](https://github.com/dristicg/LeetCode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dristicg/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/dristicg/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/dristicg/LeetCode/tree/main/3713-longest-balanced-substring-i/) | Medium |
 ## Enumeration
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/dristicg/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dristicg/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
