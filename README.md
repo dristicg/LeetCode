@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/dristicg/LeetCode/tree/main/0228-summary-ranges/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/dristicg/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dristicg/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0877-stone-game](https://github.com/dristicg/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0929-unique-email-addresses](https://github.com/dristicg/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/dristicg/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dristicg/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/dristicg/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/dristicg/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0788-rotated-digits](https://github.com/dristicg/LeetCode/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/dristicg/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dristicg/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dristicg/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1390-four-divisors](https://github.com/dristicg/LeetCode/tree/master/1390-four-divisors) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/dristicg/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0788-rotated-digits](https://github.com/dristicg/LeetCode/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/dristicg/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/dristicg/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -197,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dristicg/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/dristicg/LeetCode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
