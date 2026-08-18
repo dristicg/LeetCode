@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dristicg/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0877-stone-game](https://github.com/dristicg/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0929-unique-email-addresses](https://github.com/dristicg/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/dristicg/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/dristicg/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dristicg/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1306-jump-game-iii](https://github.com/dristicg/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/dristicg/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dristicg/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/dristicg/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/dristicg/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/dristicg/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/dristicg/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/dristicg/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dristicg/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/dristicg/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/dristicg/LeetCode/tree/main/3713-longest-balanced-substring-i/) | Medium |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/dristicg/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dristicg/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
