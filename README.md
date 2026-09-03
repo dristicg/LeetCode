@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/dristicg/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/dristicg/LeetCode/tree/main/0228-summary-ranges/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/dristicg/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/dristicg/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dristicg/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0877-stone-game](https://github.com/dristicg/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0929-unique-email-addresses](https://github.com/dristicg/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/dristicg/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/dristicg/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/dristicg/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0486-predict-the-winner](https://github.com/dristicg/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/dristicg/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/dristicg/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dristicg/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/dristicg/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
+| [0486-predict-the-winner](https://github.com/dristicg/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/dristicg/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/dristicg/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/dristicg/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -215,5 +218,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/dristicg/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/dristicg/LeetCode/tree/main/0877-stone-game/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/dristicg/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/dristicg/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/dristicg/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
