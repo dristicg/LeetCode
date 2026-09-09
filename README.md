@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/dristicg/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/dristicg/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3870-count-commas-in-range](https://github.com/dristicg/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/dristicg/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
