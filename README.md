@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dristicg/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/dristicg/LeetCode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1306-jump-game-iii](https://github.com/dristicg/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dristicg/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,10 +250,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/dristicg/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dristicg/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/dristicg/LeetCode/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dristicg/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/dristicg/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dristicg/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/dristicg/LeetCode/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dristicg/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 <!---LeetCode Topics End-->
