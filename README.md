@@ -200,11 +200,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/dristicg/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dristicg/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/dristicg/LeetCode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1306-jump-game-iii](https://github.com/dristicg/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dristicg/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/dristicg/LeetCode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1306-jump-game-iii](https://github.com/dristicg/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dristicg/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Greedy
@@ -246,9 +248,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/dristicg/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dristicg/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/dristicg/LeetCode/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/dristicg/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dristicg/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/dristicg/LeetCode/tree/main/1302-deepest-leaves-sum/) | Medium |
 <!---LeetCode Topics End-->
