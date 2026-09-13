@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/dristicg/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/dristicg/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dristicg/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0835-image-overlap](https://github.com/dristicg/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/dristicg/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0929-unique-email-addresses](https://github.com/dristicg/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dristicg/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/dristicg/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0835-image-overlap](https://github.com/dristicg/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1861-rotating-the-box](https://github.com/dristicg/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/dristicg/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dristicg/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
