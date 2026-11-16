@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/dristicg/LeetCode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/dristicg/LeetCode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/dristicg/LeetCode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/dristicg/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/dristicg/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2942-find-words-containing-character](https://github.com/dristicg/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/dristicg/LeetCode/tree/main/3019-number-of-changing-keys/) | Easy |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/dristicg/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/dristicg/LeetCode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/dristicg/LeetCode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/dristicg/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/dristicg/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
