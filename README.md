@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/dristicg/LeetCode/tree/main/0228-summary-ranges/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/dristicg/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/dristicg/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0605-can-place-flowers](https://github.com/dristicg/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dristicg/LeetCode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0835-image-overlap](https://github.com/dristicg/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/dristicg/LeetCode/tree/main/0877-stone-game/) | Medium |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0605-can-place-flowers](https://github.com/dristicg/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dristicg/LeetCode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dristicg/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Union-Find
