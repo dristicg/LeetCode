@@ -17,6 +17,7 @@ public:
         if (!root) {
             return result;
         }
+        
         queue<TreeNode*> q;
         q.push(root);
         while (!q.empty()) {
