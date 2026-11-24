@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/dristicg/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3024-type-of-triangle](https://github.com/dristicg/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/dristicg/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/dristicg/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/dristicg/LeetCode/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/dristicg/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/dristicg/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/dristicg/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/dristicg/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dristicg/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/dristicg/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/dristicg/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3870-count-commas-in-range](https://github.com/dristicg/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/dristicg/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/dristicg/LeetCode/tree/main/2413-smallest-even-multiple/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/dristicg/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dristicg/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/dristicg/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/dristicg/LeetCode/tree/main/3713-longest-balanced-substring-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/dristicg/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dristicg/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/dristicg/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
